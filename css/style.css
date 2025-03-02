@@ -1177,6 +1177,7 @@ section {
   }
 
   .social-contribution-image img {
+    margin-top:10px;
     max-width: 100%; /* La imagen se ajusta al ancho del contenedor */
   }
 }
